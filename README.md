@@ -204,7 +204,7 @@ Before you begin, ensure you have the following installed:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/password-complexity-checker.git
+git clone https://github.com/Bhaveshpooniwala1/PRODIGY_CS_03.git
 
 # Navigate to project directory
 cd password-complexity-checker
@@ -230,7 +230,7 @@ If Python is not installed:
 **Step 2: Clone and Run**
 ```cmd
 # Clone repository
-git clone https://github.com/yourusername/password-complexity-checker.git
+git clone https://github.com/Bhaveshpooniwala1/PRODIGY_CS_03.git
 cd password-complexity-checker
 
 # Run the program
@@ -253,7 +253,7 @@ sudo apt install python3 python3-pip
 **Step 2: Clone and Run**
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/password-complexity-checker.git
+git clone https://github.com/Bhaveshpooniwala1/PRODIGY_CS_03.git
 cd password-complexity-checker
 
 # Make executable (optional)
@@ -281,7 +281,7 @@ brew install python3
 **Step 2: Clone and Run**
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/password-complexity-checker.git
+git clone https://github.com/Bhaveshpooniwala1/PRODIGY_CS_03.git
 cd password-complexity-checker
 
 # Run the program
@@ -477,7 +477,7 @@ Contributions are what make the open-source community such an amazing place to l
 
 2. **Clone Your Fork**
    ```bash
-   git clone https://github.com/yourusername/password-complexity-checker.git
+   git clone https://github.com/Bhaveshpooniwala1/PRODIGY_CS_03.git
    cd password-complexity-checker
    ```
 
